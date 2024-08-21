@@ -71,4 +71,4 @@ export class TableComponent implements OnInit, OnChanges {
     // Set filteredRows to allRows initially
     this.filteredRows = this.allRows;
   }
-}
+} //aaded a comment
